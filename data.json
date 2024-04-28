@@ -1,0 +1,165 @@
+[
+    {   "TP_api": "Listes des lieux touristiques du Benin"
+
+    },
+    {   "nom": "Venise d'Afrique", 
+        "id": 1, 
+        "ville": "Ganvi\u00e9", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La porte du non retour", 
+        "id": 2, 
+        "ville": "Ouidah", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La route des esclaves", 
+        "id": 3, 
+        "ville": "Ouidah", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "Le temple des pythons", 
+        "id": 4, 
+        "ville": "Ouidah", 
+        "orientation": "Sud"
+    },
+    {   "nom": "Le mus\u00e9e r\u00e9gional de Natitingou", 
+        "id": 6, 
+        "ville": "Ouidah", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La plage de ouidah", 
+        "id": 7, 
+        "ville": "Ouidah", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La for\u00eat de Kpass\u00e8", 
+        "id": 8, 
+        "ville": "Ouidah", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La plage de cotonou", 
+        "id": 9, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La plage de fidjross\u00e8", 
+        "id": 10, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La route des p\u00eaches", 
+        "id": 11, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "Monument de l'Amazone", 
+        "id": 12, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La route des p\u00eaches", 
+        "id": 13, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La place des Martyrs", 
+        "id": 14, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La place de l'ind\u00e9pendance", 
+        "id": 15, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "Etoile rouge", 
+        "id": 16, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "Stade de l'amiti\u00e9", 
+        "id": 17, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "March\u00e9 de l'artisanat", 
+        "id": 18, 
+        "ville": "Cotonou", 
+        "orientation": "Sud"
+    },
+    {   "nom": "La plage de Grand-popo", 
+        "id": 19, 
+        "ville": "Grand-popo", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La place Nonvitcha", 
+        "id": 20, 
+        "ville": "Grand-popo", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "Les temples vodou", 
+        "id": 21, 
+        "ville": "Grand-popo", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La place Nonvitcha", 
+        "id": 20, 
+        "ville": "Grand-popo", 
+        "orientation": "Sud"
+    }, 
+    {   "nom": "La place Goho", 
+        "id": 21, 
+        "ville": "Abomey", 
+        "orientation": "Centre"
+    },
+    {   "nom": "Les palais royaux", 
+        "id": 22, 
+        "ville": "Abomey", 
+        "orientation": "Centre"
+    }, 
+    {   "nom": "Les grottes des rois", 
+        "id": 23, 
+        "ville": "Abomey", 
+        "orientation": "Centre"
+    },
+    {   "nom": "La grotte de Notre Dame", 
+        "id": 24, 
+        "ville": "Dassa", 
+        "orientation": "Centre"
+    }, 
+    {   "nom": "Les mamelles de Sav\u00e8", 
+        "id": 25, 
+        "ville": "Sav\u00e8", 
+        "orientation": "Centre"
+    }, 
+    {   "nom": "Le mus\u00e9e r\u00e9gional de Natitingou", 
+        "id": 26, 
+        "ville": "Natitingou", 
+        "orientation": "Nord"
+    }, 
+    {   "nom": "La chute de Kota", 
+        "id": 27, 
+        "ville": "Natitingou", 
+        "orientation": "Nord"
+    }, 
+    {   "nom": "Les tatas Sombas", 
+        "id": 28, 
+        "ville": "Natitingou", 
+        "orientation": "Nord"
+    }, 
+    {   "nom": "La chaine de l'Atacora", 
+        "id": 29, 
+        "ville": "Boukoumb\u00e9", 
+        "orientation": "Nord"
+    }, 
+    {   "nom": "Les chutes de Tanougou", 
+        "id": 30, 
+        "ville": "Tanougou", 
+        "orientation": "Nord"
+    }, 
+    {   "nom": "Le parc national de la Pendjari", 
+        "id": 30, 
+        "ville": "Pendjari", 
+        "orientation": "Nord"
+    }
+]
